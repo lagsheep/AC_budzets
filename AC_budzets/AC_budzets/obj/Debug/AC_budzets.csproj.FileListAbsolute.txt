@@ -1,0 +1,10 @@
+Z:\datorika\programmesana\2\budzets\AC_budzets\AC_budzets\bin\Debug\AC_budzets.exe.config
+Z:\datorika\programmesana\2\budzets\AC_budzets\AC_budzets\bin\Debug\AC_budzets.exe
+Z:\datorika\programmesana\2\budzets\AC_budzets\AC_budzets\bin\Debug\AC_budzets.pdb
+Z:\datorika\programmesana\2\budzets\AC_budzets\AC_budzets\obj\Debug\AC_budzets.csprojAssemblyReference.cache
+Z:\datorika\programmesana\2\budzets\AC_budzets\AC_budzets\obj\Debug\AC_budzets.Form1.resources
+Z:\datorika\programmesana\2\budzets\AC_budzets\AC_budzets\obj\Debug\AC_budzets.Properties.Resources.resources
+Z:\datorika\programmesana\2\budzets\AC_budzets\AC_budzets\obj\Debug\AC_budzets.csproj.GenerateResource.cache
+Z:\datorika\programmesana\2\budzets\AC_budzets\AC_budzets\obj\Debug\AC_budzets.csproj.CoreCompileInputs.cache
+Z:\datorika\programmesana\2\budzets\AC_budzets\AC_budzets\obj\Debug\AC_budzets.exe
+Z:\datorika\programmesana\2\budzets\AC_budzets\AC_budzets\obj\Debug\AC_budzets.pdb

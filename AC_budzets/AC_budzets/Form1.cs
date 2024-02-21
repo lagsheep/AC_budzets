@@ -23,31 +23,28 @@ namespace AC_budzets
         }
 
 
-        public void gridas_izmaksas(int alga, int papildus, int partika, int ire, int komunalie)
+       
+
+        private void button1_Click(object sender, EventArgs e)
         {
+            int alga = Convert.ToInt32(numericUpDown1.Value);
 
-            alga = Convert.ToInt32(numericUpDown1.Value);
+            int papildus = Convert.ToInt32(numericUpDown2.Value);
 
-            papildus = Convert.ToInt32(numericUpDown2.Value);
+            int ire = Convert.ToInt32(numericUpDown3.Value);
 
-            ire = Convert.ToInt32(numericUpDown3.Value);
+            int partika = Convert.ToInt32(numericUpDown4.Value);
 
-            partika = Convert.ToInt32(numericUpDown4.Value);
+            int komunalie = Convert.ToInt32(numericUpDown5.Value);
 
             int ienakumi = alga + papildus;
 
             int izmaksa = ire + partika + komunalie;
 
             int budzets = ienakumi - izmaksa;
-            textBox1.Text = izmaksa.ToString();
 
+            textBox1.Text = budzets.ToString();
 
         }
-
-
-
-
-
-
     }
 }
